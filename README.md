@@ -5,6 +5,8 @@
 -When I'm not studying or coding for the team I like to spend my time outside either mountain biking, sailing, swimming, or other outdoor activities.
 -I also love to game and am super excited about Dying Light's sequel coming out soon, since one of my all time favorite games is Dying Light.
 
+[resume.pdf](https://github.com/mtgagnon/mtgagnon/files/7221276/resume.pdf)s
+
 <!---
 mtgagnon/mtgagnon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
