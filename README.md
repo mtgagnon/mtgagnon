@@ -6,8 +6,6 @@
 
 -I also love to play video games like Red Dead Redemption 2, Kerbal Space Program, and Dying Light, I am extremely excited about Dying Light's sequel coming out soon, since Dying Light is one of my all time favorite games.
 
--My resume: [resume.pdf](https://github.com/mtgagnon/mtgagnon/files/7316350/resume.pdf)
-
 <!---
 mtgagnon/mtgagnon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
