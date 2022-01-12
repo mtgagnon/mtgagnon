@@ -10,8 +10,7 @@ If you are interested in learning more about me:
 
 -Here is my transcript: [transcript.pdf](https://github.com/mtgagnon/mtgagnon/files/7857850/transcript.pdf)
 
--Here is my resume: [resume.pdf](https://github.com/mtgagnon/mtgagnon/files/7857851/resume.pdf)
-
+-Here is my resume: [resume.pdf](https://github.com/mtgagnon/mtgagnon/files/7857865/resume.pdf)
 
 <!---
 mtgagnon/mtgagnon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
