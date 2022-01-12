@@ -7,7 +7,9 @@
 -I also love to play video games like Red Dead Redemption 2, Kerbal Space Program, and Dying Light, I am extremely excited about Dying Light's sequel coming out soon, since Dying Light is one of my all time favorite games.
 
 If you are interested in learning more about me:
+
 -Here is my transcript: [transcript.pdf](https://github.com/mtgagnon/mtgagnon/files/7857850/transcript.pdf)
+
 -Here is my resume: [resume.pdf](https://github.com/mtgagnon/mtgagnon/files/7857851/resume.pdf)
 
 
