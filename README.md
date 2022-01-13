@@ -8,6 +8,7 @@
 
 If you are interested in learning more about me:
 
+- My linkedin: https://www.linkedin.com/in/mathurin-gagnon-649139221/
 <!---
 mtgagnon/mtgagnon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
