@@ -4,6 +4,8 @@
 
 -Despite breaking my neck in the summer of 2019 and after excessive amounts of physical therapy, I like to spend my time outside either mountain biking, sailing, swimming, or other outdoor activities when I'm not studying or coding for the team.
 
+-Currently on the Adaptive Track and Field team working on getting back to running how I want to.
+
 -I also love to play video games like Red Dead Redemption 2, Kerbal Space Program, and Dying Light!
 
 If you are interested in learning more about me:
