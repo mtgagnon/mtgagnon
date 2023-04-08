@@ -1,9 +1,9 @@
 # About Me
 
-  - Traumatic Spinal Cord Injury Survivor
-  - Adaptive Track and Field Athlete for the University of Michigan
-  - CS Major at the University of Michigan
-  - Eagle Scout
+####  - Traumatic Spinal Cord Injury Survivor
+####  - Adaptive Track and Field Athlete for the University of Michigan
+####  - CS Major at the University of Michigan
+####  - Eagle Scout
 
 ## Experiences
 
