@@ -1,10 +1,9 @@
 # About Me
 
--I am Mathurin Gagnon. 
-  -Traumatic Spinal Cord Injury Survivor
-  -Adaptive Track and Field Athlete for the University of Michigan
-  -CS Major at the University of Michigan
-  -Eagle Scout
+  - Traumatic Spinal Cord Injury Survivor
+  - Adaptive Track and Field Athlete for the University of Michigan
+  - CS Major at the University of Michigan
+  - Eagle Scout
 
 -I was a software developer at the University of Michigan Solar Car Team's (https://www.solarcar.engin.umich.edu/) software and strategy branch from September 2021 to September 2022.
 
