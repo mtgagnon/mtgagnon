@@ -5,7 +5,9 @@
   - CS Major at the University of Michigan
   - Eagle Scout
 
--I was a software developer at the University of Michigan Solar Car Team's (https://www.solarcar.engin.umich.edu/) software and strategy branch from September 2021 to September 2022.
+## Experiences
+
+- ### Software Developer - at the University of Michigan Solar Car Team's (https://www.solarcar.engin.umich.edu/) software and strategy branch from September 2021 to September 2022.
 
 -Despite breaking my neck in the summer of 2019 and after excessive amounts of physical therapy, I like to spend my time outside either mountain biking, sailing, swimming, or other outdoor activities when I'm not studying or exercising.
 
