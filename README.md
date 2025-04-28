@@ -2,8 +2,7 @@
 
 ####  - Traumatic Spinal Cord Injury Survivor
 ####  - Adaptive Track and Field Athlete for the University of Michigan
-####  - CS Major at the University of Michigan
-####  - Eagle Scout
+####  - University of Michigan Alum with B.S. in CS
 
 ## Experiences
 
@@ -20,7 +19,7 @@
 
 - Currently on the Adaptive Track and Field team working on becoming one of the top adaptive track and field atheletes with aspirations for going to the Paralympics to represent my family and the US.
 
-- I also love to play video games like Red Dead Redemption 2, Kerbal Space Program, and Dying Light!
+- I also love to play video games like Red Dead Redemption 2, Kingdom Come Deliverance, and Dying Light!
 
 #### If you are interested in learning more about me:
 
