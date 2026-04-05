@@ -1,10 +1,10 @@
 # About Me
 
-####  - Software Dev at Roblox - Infra DNS
-####  - Traumatic Spinal Cord Injury Survivor
-####  - Adaptive Athlete Training for the US National Rowing Team
-####  - Former Adaptive Track and Field Athlete for the University of Michigan
-####  - University of Michigan Alum with B.S. in CS
+###  - Software Dev at Roblox - Infra DNS
+###  - Traumatic Spinal Cord Injury Survivor
+###  - Adaptive Athlete Training for the US National Rowing Team
+###  - Former Adaptive Track and Field Athlete for the University of Michigan
+###  - University of Michigan Alum with B.S. in CS
 
 ## Experiences
 - **Software Developer** - [Roblox](https://about.roblox.com/) building DNS and Networking solutions at massive scale for one of the most popular platforms in the world.
