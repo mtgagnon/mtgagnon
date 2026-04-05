@@ -16,11 +16,11 @@
 
 ## Interests
 
-- Despite breaking my neck in the summer of 2019 and after excessive amounts of physical therapy, I like to spend my time outside either mountain biking, sailing, swimming, or other outdoor activities when I'm not studying or exercising.
-
-- Was on the Adaptive Track and Field team for the University of Michigan, 100m champion and 200m runner up in the T44 classification at the 2024 US National Championships.
-  
+- Despite breaking my neck in the summer of 2019 and after heavy amounts of physical therapy, I like to spend my time outside either mountain biking, sailing, swimming, or other outdoor activities when I'm not studying or exercising.
+- Was on the Adaptive Track and Field team for the University of Michigan, 100m National champion and 200m runner up in the T44 classification at the 2024 US National Championships.
+- Currently rowing and trying out for the US Para National Rowing team.
 - I also love to play video games like Red Dead Redemption 2, Kingdom Come Deliverance, and Dying Light!
+- In my free time I love contributing to my game engine built in C++ which I started in college in 2024. Hoping to add 3d support and a UI to make real time changes!
 
 #### If you are interested in learning more about me:
 
