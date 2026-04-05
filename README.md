@@ -1,6 +1,6 @@
 # About Me
 
-####  - Software Dev at Roblox - Infra
+####  - Software Dev at Roblox - Infra DNS
 ####  - Traumatic Spinal Cord Injury Survivor
 ####  - Adaptive Athlete Training for the US National Rowing Team
 ####  - Former Adaptive Track and Field Athlete for the University of Michigan
