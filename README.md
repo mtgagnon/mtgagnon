@@ -1,15 +1,16 @@
 # About Me
 
+####  - Software Dev at Roblox - Infra
 ####  - Traumatic Spinal Cord Injury Survivor
-####  - Adaptive Track and Field Athlete for the University of Michigan
+####  - Adaptive Athlete Training for the US National Rowing Team
+####  - Former Adaptive Track and Field Athlete for the University of Michigan
 ####  - University of Michigan Alum with B.S. in CS
 
 ## Experiences
-
+- **Software Developer** - [Roblox](https://about.roblox.com/) building DNS and Networking solutions at massive scale for one of the most popular platforms in the world.
+- **Software Developer Intern** - [BrainHQ - Posit Science](https://www.brainhq.com) rebuilt sound engine in C++ for android users to use the Oboe audio library.
 - **Software Developer** - [University of Michigan Solar Car Team's](https://www.solarcar.engin.umich.edu/) software and strategy branch from September 2021 to September 2022.
-
 - **Software Developer Intern** - [Conservation Data lab](https://conservationdatalab.org/), partnered with The Nature Conservancy. Using R and Data Visualization techniques to make a meaningful impact on conservation efforts, my work was featured in Cool Green Science [here](https://blog.nature.org/2022/03/02/whats-left-not-lost-a-story-of-recovery-and-the-evolution-of-a-new-shiny-app/).
-
 - **Domino's Team Member** - Point of Sale employee, interacting directly with customers and working in a team setting to deliver quality products and make customers happy.
 
 
