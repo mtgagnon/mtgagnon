@@ -11,7 +11,6 @@
 - **Software Developer Intern at [BrainHQ - Posit Science](https://www.brainhq.com)** - rebuilt sound engine in C++ for android users to use the Oboe audio library.
 - **Software Developer at [University of Michigan Solar Car Team's](https://www.solarcar.engin.umich.edu/)** - software and strategy branch from September 2021 to September 2022.
 - **Software Developer Intern at [Conservation Data lab](https://conservationdatalab.org/)** - partnered with The Nature Conservancy. Using R and Data Visualization techniques to make a meaningful impact on conservation efforts, my work was featured in Cool Green Science [here](https://blog.nature.org/2022/03/02/whats-left-not-lost-a-story-of-recovery-and-the-evolution-of-a-new-shiny-app/).
-- **Domino's Team Member** - Point of Sale employee, interacting directly with customers and working in a team setting to deliver quality products and make customers happy.
 
 
 ## Interests
